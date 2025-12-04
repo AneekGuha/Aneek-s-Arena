@@ -12,12 +12,12 @@ const WorkExperience = () => {
         <div className="work-container">
           <div className="work-canvas">
             <video
-              src="https://res.cloudinary.com/dcfy2u7br/video/upload/f_mp4/v1764827834/developer_a5tug2.mp4" // path to your video file
+              src="https://res.cloudinary.com/dcfy2u7br/video/upload/f_mp4/v1764827834/developer_a5tug2.mp4"
               autoPlay
-              loop
               muted
+              loop
               playsInline
-              className="w-full h-full object-cover rounded-2xl shadow-lg"
+              style={{ width: '100%', height: '100%', objectFit: 'cover' }}
             />
           </div>
 
