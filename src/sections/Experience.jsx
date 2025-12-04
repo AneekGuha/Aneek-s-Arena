@@ -12,7 +12,7 @@ const WorkExperience = () => {
         <div className="work-container">
           <div className="work-canvas">
             <video
-              src="https://res.cloudinary.com/dcfy2u7br/video/upload/v1764827834/developer_a5tug2.mp4" // path to your video file
+              src="https://res.cloudinary.com/dcfy2u7br/video/upload/f_mp4/v1764827834/developer_a5tug2.mp4" // path to your video file
               autoPlay
               loop
               muted
